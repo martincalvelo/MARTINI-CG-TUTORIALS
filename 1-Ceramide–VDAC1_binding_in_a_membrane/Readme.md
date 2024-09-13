@@ -6,6 +6,9 @@ Throughout this tutorial, you will gain experience in performing an MD simulatio
 https://zenodo.org/records/13760505
 
 1 – Sci. Rep. 6, 32994; doi: 10.1038/srep32994 (2016)
+
 2 – Mol. Cell. Biol. 30, 5698; doi: 10.1128/MCB.00165-10 (2010)
+
 3 – Nat. Commun. 10, 1832; doi: 10.1038/s41467-019-09654-4 (2019) 
+
 4 – Nat.Methods 18, 382; doi: 10.1038/s41592-021-01098-3 (2021)
