@@ -4,7 +4,7 @@ The role of mitochondria in apoptosis is well established, and a number of prote
 
 Throughout this tutorial, you will gain experience in performing an MD simulation using CG resolution (Martini Force Field). To get started, follow the steps in the Google Colab notebook. The data for the tutorial can be found in: https://zenodo.org/records/13760505.
 
-Run the Tutorial1_Ceramide-VDAC1binding.ipynb file with Google Colab and enjoy!
+Run the **Tutorial1_Ceramide-VDAC1binding.ipynb** file with Google Colab and enjoy!
 
 1 – Sci. Rep. 6, 32994; doi: 10.1038/srep32994 (2016)
 
