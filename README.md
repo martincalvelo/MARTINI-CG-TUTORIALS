@@ -7,4 +7,4 @@ These tutorials were designed and created at the Multiscale Modeling Lab (https:
 
 ## List of tutorials
 1. [Ceramide – VDAC1 binding in a membrane](https://github.com/martincalvelo/MARTINI-CG-TUTORIALS/tree/main/1-Ceramide%E2%80%93VDAC1_binding_in_a_membrane)
-2. Lipidomics study of Magainin II
+2. Lipidomics study with Magainin II
