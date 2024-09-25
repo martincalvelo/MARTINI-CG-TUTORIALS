@@ -4,7 +4,7 @@ Antimicrobial peptides (AMPs) play a vital role in the innate immune system of a
 
 In this tutorial, we will investigate the potential antimicrobial properties of Magainin-II (Mag2), one of the most well-known natural AMPs.[5] We will simulate it in the presence of two different membrane models: one representing a healthy membrane (POPC), and the other a bacterial bilayer (POPC-POPG 3:1). We’ll place several AMPs in the aqueous phase of our systems and run simulations, analysing potential spontaneous peptide-bilayer interactions. 
 
-Throughout this tutorial, you will learn how to perform a Molecular Dynamics (MD) simulation using coarse-grained (CG) resolution with the Martini Force Field. To begin, follow the steps in the provided Google Colab notebook. The necessary data for the tutorial is available at: XXXXX.
+Throughout this tutorial, you will learn how to perform a Molecular Dynamics (MD) simulation using coarse-grained (CG) resolution with the Martini Force Field. To begin, follow the steps in the provided Google Colab notebook. The necessary data for the tutorial is available at: [https://zenodo.org/records/13838553](https://zenodo.org/records/13838553).
 
 Run the **Tutorial2_Lipidomics-Mag2.ipynb** file with Google Colab and enjoy! 
 
