@@ -6,6 +6,8 @@ Throughout this tutorial, you will gain experience in performing an MD simulatio
 
 Run the **Tutorial1_Ceramide-VDAC1binding.ipynb** file with Google Colab and enjoy!
 
+PD: If you prefer to run the tutorial on your own machine, you can download the notebook through this [link](jupyter-notebooks/Tutorial1_Ceramide-VDAC1binding_Jupyter.ipynb). It is necessary to have GROMACS, DSSP, and a series of Python libraries (vermouth, insane, and nglview) installed. The notebook includes tips on how to install them.
+
 1 – Sci. Rep. 6, 32994; doi: 10.1038/srep32994 (2016)
 
 2 – Mol. Cell. Biol. 30, 5698; doi: 10.1128/MCB.00165-10 (2010)
