@@ -8,6 +8,8 @@ Throughout this tutorial, you will learn how to perform a Molecular Dynamics (MD
 
 Run the **Tutorial2_Lipidomics-Mag2.ipynb** file with Google Colab and enjoy! 
 
+PD: If you prefer to run the tutorial on your own machine, you can download the notebook through this [link](../jupyter-notebooks/Tutorial2_Lipidomics-Mag2_Jupyter.ipynb). It is necessary to have GROMACS and a series of Python libraries (vermouth, MDAnalysis and nglview) installed. The notebook includes tips on how to install them.
+
 1 – Lancet Infect Dis. 9, e216; doi: 10.1016/S1473-3099(20)30327-3 (2020)
 
 2 – Front. Microbiol. 11; doi: 10.3389/fmicb.2020.582779 (2020)
